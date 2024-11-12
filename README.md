@@ -24,22 +24,6 @@ The dashboard includes the following key metrics and insights:
 
 - **Daily Sales Trends**: Tracks daily sales with a trendline, providing insights into seasonal trends and helping with long-term planning.
 
-## 📊 Dashboard Snapshots
-
-### Total Sales Analysis
-- Visualizes total sales, total orders, and total quantity sold with KPIs for quick insights into business performance.
-
-### Sales Analysis by Day
-- A breakdown of sales by weekdays and weekends to optimize marketing and staffing.
-
-### Sales Analysis by Store Location
-- Visual comparison of sales across different locations to strategize location-specific promotions or improvements.
-
-### Product Category Analysis
-- Highlights sales distribution by category and identifies which categories drive the most revenue.
-
-### Top 10 Products by Sales
-- Focuses on the best-selling products, guiding inventory and promotional strategies for popular items.
 
 ## 🛠️ Technology Stack
 
