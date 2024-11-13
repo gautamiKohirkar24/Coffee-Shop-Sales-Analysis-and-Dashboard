@@ -15,7 +15,16 @@ The dashboard includes the following key metrics and insights:
 - **Sales by Day and Time**:
   - *Weekday vs. Weekend Analysis*: Compares sales on weekdays and weekends to identify peak times.
   - *Hourly Sales Analysis*: Highlights the hours with the highest sales, aiding in staffing and inventory planning.
-     ![Sales By Day](https://github.com/gautamiKohirkar24/Coffee-Shop-Sales-Analysis-and-Dashboard/blob/main/Sales%20By%20day.jpeg)
+ 
+    
+
+## Sales By Day
+![Sales By Day](https://github.com/gautamiKohirkar24/Coffee-Shop-Sales-Analysis-and-Dashboard/blob/main/Sales%20By%20day.jpeg)
+
+
+## Sales By Hour
+![Sales By Hour](https://github.com/gautamiKohirkar24/Coffee-Shop-Sales-Analysis-and-Dashboard/blob/main/Sales%20By%20hour.jpeg)
+
 
 
 - **Location-Based Sales Analysis**: Breaks down sales across various store locations, allowing identification of high-performing and low-performing stores for targeted strategies.
